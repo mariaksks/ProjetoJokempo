@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- String do Projeto -->
+    <string name = "appTextoTitulo">JO-KEN-PO PLAY</string>
+    <string name="appTextoResultado">Clique na sua opção:</string>
+    <string name="appJogoWin">Parabéns! Ganhou.</string>
+    <string name="appJogoGameOver">Perdeu Mané.</string>
+    <string name="appJogoEmpate">Em-PATOU!</string>
+    <string name="appTextContagem">0</string>
+
+
+
+
+
+
+
+    <!-- Colors do Projeto -->
+    <color name="appFonte1">#FFFFFF</color>
+    <color name="appFonte2">#94D500</color>
+    <color name="appBackground">#006622</color>
+
+</resources>
